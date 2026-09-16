@@ -1,0 +1,20 @@
+test_id: UAT-001
+requirement: ""
+profile: ""
+fixture:
+  run_id: ""
+  records: []
+  files: []
+action: ""
+expected: ""
+actual: ""
+evidence:
+  record_handles: []
+  automation_executions: []
+  conversation_ids: []
+  command_artifacts: []
+outcome: PASS # PASS | FAIL | BLOCKED
+cleanup:
+  approved: false
+  completed: false
+notes: ""

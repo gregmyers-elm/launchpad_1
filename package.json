@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@elementumai/edk": "^0.9.11"
+  }
+}

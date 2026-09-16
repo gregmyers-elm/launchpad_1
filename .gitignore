@@ -1,0 +1,13 @@
+# elementum pull org — generated terraform working dir (state is COMMITTED at the org root)
+.tf/
+# state migration recovery snapshots live here; terraform.tfstate itself remains committed
+/.tf/migration-backups/
+.terraform/
+.terraform.lock.hcl
+# local credentials
+.env
+# Optional ei metadata diagnostics are written in the command cwd
+elementum-run.log
+# elementum pull org — generated terraform working directories
+.edk-state/
+# state migration recovery snapshots live under the ignored working tree
